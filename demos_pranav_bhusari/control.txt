@@ -1,0 +1,23 @@
+game.py - garbage '3d renderer'
+-wasd to move
+- q, e to look
+- wall must be in vision at all times
+
+graphics-arifact
+-wasd to move
+-q to display
+-mouse to aim
+
+rogue
+-arrow keys to move
+
+snaker
+-s to start
+-controlls in game
+
+velocity_test
+-q to accelerate towards mouse
+- wad to move (see a pattern here?)
+
+window meme
+-none, just a resizable image displayer
